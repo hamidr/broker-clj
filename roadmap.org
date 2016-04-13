@@ -1,0 +1,4 @@
+* Todos
+  - Configuration file!
+  - Hot reloading
+  - Testing performance
